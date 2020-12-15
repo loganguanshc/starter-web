@@ -7,4 +7,8 @@ This repository is for showing how Git and GitHub work
 Sample website with plenty of files for demos
 
 
-## GIT and GitHub
+## Git and GitHub
+
+
+## Git Comparison test
+Adding comparisons.
